@@ -9,17 +9,17 @@ Skilled in Android, Java, Kotlin, Python, Modern Javascript frontend, and Agile 
 I love Open source, Android, Web, Develop UI/UX :) 
 
 ### Currently, I'm Working
-Medibloc
-- Android Software Engineer
+Medibloc - Android Software Engineer
 
-Personal Healthcare Record system(PHR)
+- Personal Healthcare Record system(PHR)
 
-Medipass (Solutions that available insurance claims without paperwork)
+- Medipass (Solutions that available insurance claims without paperwork)
 
-link : https://play.google.com/store/apps/details?id=me.medipass
+- link : https://play.google.com/store/apps/details?id=me.medipass
 
-Tech : Kotiln, Java, MVVM, MvRx, Epoxy, Databinding, RxJava2
+- Tech : Kotiln, Java, MVVM, MvRx, Epoxy, Databinding, RxJava2
 
+### Personally
 
 - 🌱 I’m currently learning Python for Automation/Crawling/Algorithm Trading
 - 💬 Ask me about Android Framework/Kotlin/Java
