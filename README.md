@@ -2,7 +2,7 @@
 
 
 
-Excellent experienced Android & Web Developer with working in the computer software industry.
+Excellent experienced Android Developer with working in the computer software industry.
 
 Skilled in Android, Java, Kotlin, Python, Modern Javascript frontend, and Agile Methodologies
 
