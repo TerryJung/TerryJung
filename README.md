@@ -9,7 +9,7 @@ Skilled in Android, Java, Kotlin, Python, Modern Javascript frontend, and Agile 
 I love Open source, Android, Web, Develop UI/UX :) 
 
 ### Currently, I'm Working
-Hyperconnect - Android Software Engineer(SDK)
+Hyperconnect - Android Software Engineer
 
 
 ### Personally
