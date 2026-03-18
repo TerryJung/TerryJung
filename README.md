@@ -2,9 +2,9 @@
 
 
 
-Excellent experienced Android Developer with working in the computer software industry.
+Excellent experienced Full Stack Developer with working in the computer software industry.
 
-Skilled in Android, Java, Kotlin, Python, Modern Javascript frontend, and Agile Methodologies
+Skilled in Android, Java, Kotlin, Node JS, Python, Modern Javascript frontend, and Agile Methodologies
 
 I love Open source, Android, Web, Develop UI/UX :) 
 
